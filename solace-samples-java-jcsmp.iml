@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module relativePaths="true" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output/>
+    <orderEntry type="inheritedJdk"/>
+    <content url="file://$MODULE_DIR$/">
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false"/>
+      <sourceFolder url="file://$MODULE_DIR$/src/dist/config" isTestSource="false"/>
+      <excludeFolder url="file://$MODULE_DIR$/.gradle"/>
+      <excludeFolder url="file://$MODULE_DIR$/build"/>
+    </content>
+    <orderEntry type="sourceFolder" forTests="false"/>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/com.solace/solace-opentelemetry-jcsmp-integration/1.1.0/583f8c8d34f4605f053105492b881a5e1eb0f938/solace-opentelemetry-jcsmp-integration-1.1.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/com.solace/solace-opentelemetry-jcsmp-integration/1.1.0/bb273846a674d0a66f5745bfc6198f8ad6108b7d/solace-opentelemetry-jcsmp-integration-1.1.0-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/com.solace/solace-opentelemetry-jcsmp-integration/1.1.0/69828328a136c36d2f8633b419ce30e5560e9bec/solace-opentelemetry-jcsmp-integration-1.1.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/com.solacesystems/sol-jcsmp/10.25.1/e992f88bf5ea9935c3d60ed9d6ad1dff0e25ee6f/sol-jcsmp-10.25.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/com.solacesystems/sol-jcsmp/10.25.1/308d750941d208cd1920a1b753ae214088cd5711/sol-jcsmp-10.25.1-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/com.solacesystems/sol-jcsmp/10.25.1/38931b1e0b382c4960b607e4410b238d62981fd8/sol-jcsmp-10.25.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.24.1/c85285146f28d8c8962384f786e2dff04172fb43/log4j-core-2.24.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-core/2.24.1/f5a5261c171329e63f3f0888202f0ed23ab0390a/log4j-core-2.24.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-jcl/2.24.1/f7b854f5cabca90f9960bff4c7c34189a9eee65b/log4j-jcl-2.24.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-jcl/2.24.1/82e75648ab0206abe992a3753e91861042beb280/log4j-jcl-2.24.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.24.1/7ebeb12c20606373005af4232cd0ecca72613dda/log4j-api-2.24.1.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.apache.logging.log4j/log4j-api/2.24.1/63358d6542d9a55f2ff3e78aa19b7f8729101220/log4j-api-2.24.1-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-exporter-otlp/1.43.0/6049b76571db09b2694ce96a177b2ee1322a4588/opentelemetry-exporter-otlp-1.43.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-exporter-otlp/1.43.0/be5bc5d2e0fea61cb2bb763b1c44afa55bfb72fd/opentelemetry-exporter-otlp-1.43.0-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-exporter-otlp/1.43.0/20b8fa9e862dd242cebd0e49fa6d430cfe0a9da8/opentelemetry-exporter-otlp-1.43.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry.semconv/opentelemetry-semconv/1.28.0-alpha/90d4d4dc28153eed4af75759b610a1bf81b77b75/opentelemetry-semconv-1.28.0-alpha.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry.semconv/opentelemetry-semconv/1.28.0-alpha/a0f760ab08a83249f4e1c9675efdf7f119921672/opentelemetry-semconv-1.28.0-alpha-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry.semconv/opentelemetry-semconv/1.28.0-alpha/1afd8df15f04727bb4dc10cd3dad77a12694c2ef/opentelemetry-semconv-1.28.0-alpha-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.3.4/b9fc14968d63a8b8a8a2c1885fe3e90564239708/commons-logging-1.3.4.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.3.4/d9633e6c40386c23b1b1484a85dcde3cf3a87534/commons-logging-1.3.4-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/commons-logging/commons-logging/1.3.4/48ab26b05c0754956d581057288286b2bd9a6e9c/commons-logging-1.3.4-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.osgi/org.osgi.annotation/6.0.0/8e60d5960532e492c70b507752f95a76a955bf1f/org.osgi.annotation-6.0.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.osgi/org.osgi.annotation/6.0.0/73508baf654e3dc4545e2da3296b6aa66833a2fa/org.osgi.annotation-6.0.0-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.osgi/org.osgi.annotation/6.0.0/d7ebeed8c7afb937ddb4652d90517c8c05294ee0/org.osgi.annotation-6.0.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jzlib/1.1.3_2/d563ab78ce9f9734f0a7584fcd8def9eba57ba80/org.apache.servicemix.bundles.jzlib-1.1.3_2.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.apache.servicemix.bundles/org.apache.servicemix.bundles.jzlib/1.1.3_2/5c534d97bb670930d1b083d63de688ae69f44f3/org.apache.servicemix.bundles.jzlib-1.1.3_2-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler-proxy/4.1.109.Final/a77224107f586a7f9e3dc5d12fc0d4d8f0c04803/netty-handler-proxy-4.1.109.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler-proxy/4.1.109.Final/38fd38e789a75effdf78d91bd6304f80cfc335bc/netty-handler-proxy-4.1.109.Final-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler-proxy/4.1.109.Final/99721d4acd59f569c9f4113dd99e523a4282e9a2/netty-handler-proxy-4.1.109.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.1.109.Final/6dca43cedc0b2dc6bf57bdc85fce6ffca3e6b72a/netty-codec-http-4.1.109.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.1.109.Final/1738d6e95586a81117f7d6e3ec127f15c3795ea0/netty-codec-http-4.1.109.Final-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-http/4.1.109.Final/a53d71949fbc383aaffc7fbcc35da407ee2464b1/netty-codec-http-4.1.109.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.1.109.Final/9167863307b3c44cc12262e7b5512de3499b9c4a/netty-handler-4.1.109.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.1.109.Final/4e8d5bd18093e8790dfdabdd9425fbf9e4dfad49/netty-handler-4.1.109.Final-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-handler/4.1.109.Final/fc1207cf12a76674286396aefcfde0a8593c1893/netty-handler-4.1.109.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.1.109.Final/1f762ef557cf91d16b86bde840f618ddb38e6f81/netty-transport-native-epoll-4.1.109.Final-linux-x86_64.jar!/"/>
+        </CLASSES>
+        <JAVADOC/>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-epoll/4.1.109.Final/e03412b6ff3516fdda80be704f38c28d175b8897/netty-transport-native-epoll-4.1.109.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-classes-epoll/4.1.109.Final/7307c8acbc9b331fce3496750a5112bdc726fd2a/netty-transport-classes-epoll-4.1.109.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-classes-epoll/4.1.109.Final/38dc29d141b88c8d375fe5a611e244fcc768e42e/netty-transport-classes-epoll-4.1.109.Final-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-classes-epoll/4.1.109.Final/93f7cb93fe71c8ba701906864ca540a271f51f72/netty-transport-classes-epoll-4.1.109.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-unix-common/4.1.109.Final/da7fe1e6943cbab8ee48df2beadc2c8304f347a2/netty-transport-native-unix-common-4.1.109.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-unix-common/4.1.109.Final/7d7ad65c99f6402f73cd47bce0180b6086b7681c/netty-transport-native-unix-common-4.1.109.Final-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport-native-unix-common/4.1.109.Final/3f239e5a5d5ed7dcfe723142c606ce026757d511/netty-transport-native-unix-common-4.1.109.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-socks/4.1.109.Final/7f4f0c0dd54c578af2c613a0db7172bf7dca9c79/netty-codec-socks-4.1.109.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-socks/4.1.109.Final/e94a5665a5aef0631344acd085c18f9367fb6529/netty-codec-socks-4.1.109.Final-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec-socks/4.1.109.Final/bdbd2393b548f645ef78abae5b1a956d82ab600/netty-codec-socks-4.1.109.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.109.Final/16e0b2beb49318a549d3ba5d66d707bd5daa8c97/netty-codec-4.1.109.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.109.Final/8bbdbaec8d4639cdc9669d55540c38c31276487e/netty-codec-4.1.109.Final-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-codec/4.1.109.Final/8a15446a0f0b8fade7932fa05dbd408055879351/netty-codec-4.1.109.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.1.109.Final/79e3b07d58ef03c7a860d48f932b720675aa8bd3/netty-transport-4.1.109.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.1.109.Final/4a69ba40cfe097cb097707c90d89914266219b2d/netty-transport-4.1.109.Final-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-transport/4.1.109.Final/5cc1f2f5655a0010da4835aa3bc8ae9f4054d01f/netty-transport-4.1.109.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="PROVIDED">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk/1.29.0/5d3a0e83ab6a2849c5b4123d539f994a721ddcd5/opentelemetry-sdk-1.29.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk/1.29.0/cfbb91c06636a230b0cf09c236ee9d072fec98d2/opentelemetry-sdk-1.29.0-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk/1.29.0/d98b7e9eb7f43c7e9656e13df74511375d645825/opentelemetry-sdk-1.29.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-trace/1.43.0/69619c6433ebf0fe5196f7c3fe18bd543279b451/opentelemetry-sdk-trace-1.43.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-trace/1.43.0/30b3a9aceea3e6cea7567c620e780b480ccbb4e4/opentelemetry-sdk-trace-1.43.0-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-trace/1.43.0/deeb2c9dc2f9f1770d3a1ff6de0f1b2b3f0ae29a/opentelemetry-sdk-trace-1.43.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-metrics/1.43.0/ca508a02ef7bb96678d054de264fcc0bf41e729c/opentelemetry-sdk-metrics-1.43.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-metrics/1.43.0/c70d9e168bea5fbbd79fe92dee72f31aeeff315d/opentelemetry-sdk-metrics-1.43.0-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-metrics/1.43.0/c51b302d36d063b78b04115b9f5b31c6f64732f2/opentelemetry-sdk-metrics-1.43.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-logs/1.43.0/e613c8ecf1efc1a275c7fe744773035df954c291/opentelemetry-sdk-logs-1.43.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-logs/1.43.0/dafa1cd808d577bec5745b15d38d66742f7246cc/opentelemetry-sdk-logs-1.43.0-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-logs/1.43.0/a2627d29777e439c7f44bbe4c5610b517e8c5454/opentelemetry-sdk-logs-1.43.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-common/1.43.0/8f2bb94d9d9fe070de698b973c1f1f247a166dcf/opentelemetry-sdk-common-1.43.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-common/1.43.0/de58b0d857601f9427415742111244d8564b63d9/opentelemetry-sdk-common-1.43.0-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-common/1.43.0/1d4934615bd9ed46d0c1208724fb9d3607682b6c/opentelemetry-sdk-common-1.43.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-api/1.43.0/ce6889e709baac891833dc1c718702661650b3b3/opentelemetry-api-1.43.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-api/1.43.0/8234fe2a05f61657c3532dcd71e7062e374f3c3c/opentelemetry-api-1.43.0-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-api/1.43.0/c615cdee488fd8a80064eb40a46df4100885dc48/opentelemetry-api-1.43.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.1.109.Final/9d21d602ad7c639fa16b1d26559065d310a34c51/netty-buffer-4.1.109.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.1.109.Final/6fc2c24013491e8d0163606250b2c672a721b937/netty-buffer-4.1.109.Final-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-buffer/4.1.109.Final/f0956bc7c1773b3152424e25ded6358cef377766/netty-buffer-4.1.109.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.109.Final/55485ac976e27c8bb67ee111a8490c58f67b70c/netty-resolver-4.1.109.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.109.Final/d7edbf1819e96bc3dca93bf54a732b5c8840fa21/netty-resolver-4.1.109.Final-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-resolver/4.1.109.Final/656fcac1ea21f8091ad2ecea8abf833256d57111/netty-resolver-4.1.109.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.1.109.Final/da63e54ee1ca69abf4206cb74fadef7f50850911/netty-common-4.1.109.Final.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.1.109.Final/e6d5eaeb7be35eddf14622223d439dee2de37b96/netty-common-4.1.109.Final-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.netty/netty-common/4.1.109.Final/d2b870e2d1cfdfaf3436793c19791b39429a3ed6/netty-common-4.1.109.Final-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-context/1.43.0/473c7a67d2d587f7faefe7b6d9c00743e82819ee/opentelemetry-context-1.43.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-context/1.43.0/7646f7b3323ea144b6e31b8122b8a5362f2a79b4/opentelemetry-context-1.43.0-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-context/1.43.0/b274add5c147164ecb2ee60efb8ec6e5e6c6a67e/opentelemetry-context-1.43.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-exporter-otlp-common/1.43.0/230fc6ddbd76fedea346ce7dff5d4fa2d13f7f4a/opentelemetry-exporter-otlp-common-1.43.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-exporter-otlp-common/1.43.0/d0f7caa708849a9bbeb859fe77d072d0ea9dfe1c/opentelemetry-exporter-otlp-common-1.43.0-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-exporter-otlp-common/1.43.0/617f4b51dd088ea2157d008e947d4bb8f2b7c09d/opentelemetry-exporter-otlp-common-1.43.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-exporter-sender-okhttp/1.43.0/c583b782dc2e8e631d590f1734bf0767769d8507/opentelemetry-exporter-sender-okhttp-1.43.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-exporter-sender-okhttp/1.43.0/ce337816fbc62be89582a1a1bf5d2ed77413f27f/opentelemetry-exporter-sender-okhttp-1.43.0-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-exporter-sender-okhttp/1.43.0/35389416bab5d44b2ef443225999547e2885588c/opentelemetry-exporter-sender-okhttp-1.43.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-exporter-common/1.43.0/7ce251b8a5eae17b744faaaced857f4a3e79aeb6/opentelemetry-exporter-common-1.43.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-exporter-common/1.43.0/dca6d2c6cbc1fc2a624eed30d96f4a5178f6d490/opentelemetry-exporter-common-1.43.0-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-exporter-common/1.43.0/6f9f96b3f4568a339c527ede15fd1f48e68074e9/opentelemetry-exporter-common-1.43.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.43.0/ef96761d2234ab0973aea432d74ddb6cf4589ca/opentelemetry-sdk-extension-autoconfigure-spi-1.43.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.43.0/e2ead661a63224dde1d4cff839c3d59193f42c97/opentelemetry-sdk-extension-autoconfigure-spi-1.43.0-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.43.0/ac7901d4fe6d6254ef26aa619679fce33c604c0a/opentelemetry-sdk-extension-autoconfigure-spi-1.43.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk/1.43.0/5e4e695beb5400c1866dcf800f08ca8307405b3b/opentelemetry-sdk-1.43.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk/1.43.0/fdfa1a2aeb1bfa7f3320a45ed85d96e8b368190d/opentelemetry-sdk-1.43.0-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk/1.43.0/3b69595a6e38a7765c75850790d4ed596a28c72a/opentelemetry-sdk-1.43.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-api-incubator/1.43.0-alpha/2dcee00ad7552d9190857e271f6066e655c6c719/opentelemetry-api-incubator-1.43.0-alpha.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-api-incubator/1.43.0-alpha/de522da8627c8be0eb1933ff07ab7581c2e5056a/opentelemetry-api-incubator-1.43.0-alpha-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-api-incubator/1.43.0-alpha/9a2eda9a15b3962caaab1dd3d92a799b3134ef34/opentelemetry-api-incubator-1.43.0-alpha-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/4.12.0/2f4525d4a200e97e1b87449c2cd9bd2e25b7e8cd/okhttp-4.12.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/4.12.0/8c6816d131791a66e792d7920f4109cfecf917e8/okhttp-4.12.0-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/4.12.0/ae6ec072a7ddfd4e225a36de1c185e76ebc7348d/okhttp-4.12.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio-jvm/3.6.0/5600569133b7bdefe1daf9ec7f4abeb6d13e1786/okio-jvm-3.6.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio-jvm/3.6.0/f3e824bcafbe875da58258155da3ae3077007a9a/okio-jvm-3.6.0-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio-jvm/3.6.0/5b1761b9f5cd934db274cf972582e3dd6b267272/okio-jvm-3.6.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.9.10/c7510d64a83411a649c76f2778304ddf71d7437b/kotlin-stdlib-jdk8-1.9.10.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.9.10/5b8f86fea035328fc9e8c660773037a3401ce25f/kotlin-stdlib-jdk8-1.9.10-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.9.10/20739e7aae2a2bfb66c4081b233ffea7b947cf77/kotlin-stdlib-jdk8-1.9.10-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.9.10/bc5bfc2690338defd5195b05c57562f2194eeb10/kotlin-stdlib-jdk7-1.9.10.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.9.10/5b8f86fea035328fc9e8c660773037a3401ce25f/kotlin-stdlib-jdk7-1.9.10-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.9.10/3641d7cb7650db9fe93a5361b1b88cbcefdb01e0/kotlin-stdlib-jdk7-1.9.10-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.9.10/72812e8a368917ab5c0a5081b56915ffdfec93b7/kotlin-stdlib-1.9.10.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.9.10/5b8f86fea035328fc9e8c660773037a3401ce25f/kotlin-stdlib-1.9.10-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.9.10/40b9c37d8c614f0a5f87bab78da0ca7c771d1395/kotlin-stdlib-1.9.10-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.9.10/dafaf2c27f27c09220cee312df10917d9a5d97ce/kotlin-stdlib-common-1.9.10.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.9.10/5b8f86fea035328fc9e8c660773037a3401ce25f/kotlin-stdlib-common-1.9.10-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.9.10/9960410cb3852df9251d5b30927ff2070bfb453/kotlin-stdlib-common-1.9.10-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="RUNTIME">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/73368c3b0887f3adc2c2730dd1b95d7c3781aaf3/annotations-13.0-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/5991ca87ef1fb5544943d9abc5a9a37583fabe03/annotations-13.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-exporter-otlp-common/1.43.0/230fc6ddbd76fedea346ce7dff5d4fa2d13f7f4a/opentelemetry-exporter-otlp-common-1.43.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-exporter-otlp-common/1.43.0/d0f7caa708849a9bbeb859fe77d072d0ea9dfe1c/opentelemetry-exporter-otlp-common-1.43.0-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-exporter-otlp-common/1.43.0/617f4b51dd088ea2157d008e947d4bb8f2b7c09d/opentelemetry-exporter-otlp-common-1.43.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-exporter-sender-okhttp/1.43.0/c583b782dc2e8e631d590f1734bf0767769d8507/opentelemetry-exporter-sender-okhttp-1.43.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-exporter-sender-okhttp/1.43.0/ce337816fbc62be89582a1a1bf5d2ed77413f27f/opentelemetry-exporter-sender-okhttp-1.43.0-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-exporter-sender-okhttp/1.43.0/35389416bab5d44b2ef443225999547e2885588c/opentelemetry-exporter-sender-okhttp-1.43.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-exporter-common/1.43.0/7ce251b8a5eae17b744faaaced857f4a3e79aeb6/opentelemetry-exporter-common-1.43.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-exporter-common/1.43.0/dca6d2c6cbc1fc2a624eed30d96f4a5178f6d490/opentelemetry-exporter-common-1.43.0-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-exporter-common/1.43.0/6f9f96b3f4568a339c527ede15fd1f48e68074e9/opentelemetry-exporter-common-1.43.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.43.0/ef96761d2234ab0973aea432d74ddb6cf4589ca/opentelemetry-sdk-extension-autoconfigure-spi-1.43.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.43.0/e2ead661a63224dde1d4cff839c3d59193f42c97/opentelemetry-sdk-extension-autoconfigure-spi-1.43.0-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.43.0/ac7901d4fe6d6254ef26aa619679fce33c604c0a/opentelemetry-sdk-extension-autoconfigure-spi-1.43.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk/1.43.0/5e4e695beb5400c1866dcf800f08ca8307405b3b/opentelemetry-sdk-1.43.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk/1.43.0/fdfa1a2aeb1bfa7f3320a45ed85d96e8b368190d/opentelemetry-sdk-1.43.0-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-sdk/1.43.0/3b69595a6e38a7765c75850790d4ed596a28c72a/opentelemetry-sdk-1.43.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-api-incubator/1.43.0-alpha/2dcee00ad7552d9190857e271f6066e655c6c719/opentelemetry-api-incubator-1.43.0-alpha.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-api-incubator/1.43.0-alpha/de522da8627c8be0eb1933ff07ab7581c2e5056a/opentelemetry-api-incubator-1.43.0-alpha-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/io.opentelemetry/opentelemetry-api-incubator/1.43.0-alpha/9a2eda9a15b3962caaab1dd3d92a799b3134ef34/opentelemetry-api-incubator-1.43.0-alpha-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/4.12.0/2f4525d4a200e97e1b87449c2cd9bd2e25b7e8cd/okhttp-4.12.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/4.12.0/8c6816d131791a66e792d7920f4109cfecf917e8/okhttp-4.12.0-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/4.12.0/ae6ec072a7ddfd4e225a36de1c185e76ebc7348d/okhttp-4.12.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio-jvm/3.6.0/5600569133b7bdefe1daf9ec7f4abeb6d13e1786/okio-jvm-3.6.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio-jvm/3.6.0/f3e824bcafbe875da58258155da3ae3077007a9a/okio-jvm-3.6.0-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio-jvm/3.6.0/5b1761b9f5cd934db274cf972582e3dd6b267272/okio-jvm-3.6.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.9.10/c7510d64a83411a649c76f2778304ddf71d7437b/kotlin-stdlib-jdk8-1.9.10.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.9.10/5b8f86fea035328fc9e8c660773037a3401ce25f/kotlin-stdlib-jdk8-1.9.10-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk8/1.9.10/20739e7aae2a2bfb66c4081b233ffea7b947cf77/kotlin-stdlib-jdk8-1.9.10-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.9.10/bc5bfc2690338defd5195b05c57562f2194eeb10/kotlin-stdlib-jdk7-1.9.10.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.9.10/5b8f86fea035328fc9e8c660773037a3401ce25f/kotlin-stdlib-jdk7-1.9.10-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-jdk7/1.9.10/3641d7cb7650db9fe93a5361b1b88cbcefdb01e0/kotlin-stdlib-jdk7-1.9.10-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.9.10/72812e8a368917ab5c0a5081b56915ffdfec93b7/kotlin-stdlib-1.9.10.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.9.10/5b8f86fea035328fc9e8c660773037a3401ce25f/kotlin-stdlib-1.9.10-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/1.9.10/40b9c37d8c614f0a5f87bab78da0ca7c771d1395/kotlin-stdlib-1.9.10-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.9.10/dafaf2c27f27c09220cee312df10917d9a5d97ce/kotlin-stdlib-common-1.9.10.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.9.10/5b8f86fea035328fc9e8c660773037a3401ce25f/kotlin-stdlib-common-1.9.10-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib-common/1.9.10/9960410cb3852df9251d5b30927ff2070bfb453/kotlin-stdlib-common-1.9.10-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" scope="TEST">
+      <library>
+        <CLASSES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar!/"/>
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/73368c3b0887f3adc2c2730dd1b95d7c3781aaf3/annotations-13.0-javadoc.jar!/"/>
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://C:/Users/Administrator/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/5991ca87ef1fb5544943d9abc5a9a37583fabe03/annotations-13.0-sources.jar!/"/>
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+  <component name="ModuleRootManager"/>
+</module>
