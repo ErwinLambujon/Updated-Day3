@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="561c7688-5e74-4c89-bdaf-33940fcf3d98" name="Changes" comment="" />
+    <list default="true" id="561c7688-5e74-4c89-bdaf-33940fcf3d98" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/solace-samples-java-jcsmp.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/solace-samples-java-jcsmp.ipr" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +59,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -70,6 +75,7 @@
       <profile-state />
     </entry>
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectReloadState">
     <option name="STATE" value="0" />
   </component>
@@ -234,12 +240,23 @@
       <updated>1730263228877</updated>
       <workItem from="1730263230152" duration="640000" />
       <workItem from="1730263890550" duration="1821000" />
-      <workItem from="1730265743398" duration="987000" />
+      <workItem from="1730265743398" duration="1286000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
